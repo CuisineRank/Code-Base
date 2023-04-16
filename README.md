@@ -13,7 +13,7 @@ Application with a database of different foods from different restaurants that w
 ### App Evaluation
 * **Category:** Food/Social Media 
 - **Mobile:** This app would be primarily developed for mobile.
-- **Story:** 
+- **Story:** Develop UI and sign in functionality interface. Develop Food browsing interface. Develop parse backend to support data. Link frontend and backend.
 - **Market:** Any individual could choose to use this app, and to keep it a safe environment,use the appropriate vocabulary to comment on the dishes, contact people who have the same interests in dishes or tastes,try new foods and rate them as well as comment what you think or what could be improved, companies can use the ratings to improve in certain aspects and know what things are in style, etc.
 - **Habit:** This app could be used as often or unoften as the user wanted depending on how deep they want to know more dishes to try or if they want to get to know more places. 
 - **Scope:** 
